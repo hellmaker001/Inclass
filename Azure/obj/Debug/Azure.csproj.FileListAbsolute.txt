@@ -1,0 +1,10 @@
+C:\Users\Jagadeesh\Documents\Visual Studio 2015\Projects\FinalProject\Azure\bin\Debug\Azure.dll
+C:\Users\Jagadeesh\Documents\Visual Studio 2015\Projects\FinalProject\Azure\bin\Debug\Azure.pdb
+C:\Users\Jagadeesh\Documents\Visual Studio 2015\Projects\FinalProject\Azure\obj\Debug\Azure.csprojResolveAssemblyReference.cache
+C:\Users\Jagadeesh\Documents\Visual Studio 2015\Projects\FinalProject\Azure\obj\Debug\Azure.dll
+C:\Users\Jagadeesh\Documents\Visual Studio 2015\Projects\FinalProject\Azure\obj\Debug\Azure.pdb
+N:\FinalProject-master\Azure\bin\Debug\Azure.dll
+N:\FinalProject-master\Azure\bin\Debug\Azure.pdb
+N:\FinalProject-master\Azure\obj\Debug\Azure.csprojResolveAssemblyReference.cache
+N:\FinalProject-master\Azure\obj\Debug\Azure.dll
+N:\FinalProject-master\Azure\obj\Debug\Azure.pdb
